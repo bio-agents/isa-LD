@@ -1,16 +1,3 @@
-{
-  "name": "isa-ld",
-  "version": "0.1.0",
-  "private": false,
-  "scripts": {
-    "build": "netlify-lambda build src/lambda"
-  },
-  "dependencies": {
-    "axios": "^0.21.1"
-  },
-  "devDependencies": {
-    "netlify-cli": "2.68.4",
-    "netlify-lambda": "^1.6.3"
-  },
-  "proxy": "http://localhost:9000/"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f68236ad7c5514b1e565e7c0b1bd32300de0d97a7cbc3437434a8e1d9577432b
+size 305
